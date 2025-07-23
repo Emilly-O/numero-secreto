@@ -1,17 +1,17 @@
-<h1>Jogo do Número secreto</h1>
+<h1>Jogo do Número secreto 🎮</h1>
 
-<h2>Sobre</h2>
-<p>Projeto para estudos de lógica de programação com Alura</p>
+<h2>ℹ️ Sobre</h2>
+<p>Projeto para estudos de lógica de programação com Alura.</p>
+<p>Durante a aula, foi criado um jogo para prática, onde o sistema pede para o usuário adivinhar um número secreto entre 1 e 50, por exemplo. 
+Ao acertar, o sistema informa que o número foi descoberto e exibe também em quantas tentativas o usuário conseguiu. Caso erre, ele permite que o usuário continue tentando até acertar.</p>
 
-## 🚀 Tecnologias
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png"
-    width="50" 
-    height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png"
-    width="50" 
-    height="50">
-  <img src="https://logospng.org/download/javascript/logo-javascript-icon-256.png"
-    width="50" 
-    height="45"> 
+<h2>🚀 Ferramentas e Tecnologias</h2>
+<div> 
+  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="45"/>    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="45"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="45"/>       
 </div>
+
+
+        
