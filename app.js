@@ -1,5 +1,3 @@
-//Só coloca return na Função quando precisa manipular algum valor
-
 let listaDeNumerosSorteados = []
 let numeroLimite = 50
 let numeroSecreto = gerarNumeroAleatorio()
